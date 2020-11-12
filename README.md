@@ -33,5 +33,5 @@ df = pd.read_csv(url)
 cordex_table = df.groupby(['institute', 'model_id', 'driving_model_id', 'experiment_id', 'member', 'frequency', 'domain'])['variable'].apply(list)
 
 # write the table to excel
-cordex_list.to_excel('cordex.xlsx')
+cordex_table.to_excel('cordex.xlsx')
 ```
