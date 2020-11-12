@@ -20,4 +20,18 @@ Contains tables with cordex domains and definitions in rotated coordinates.
 ## ESGF
 
 A table of Cordex Simulations currently available in the ESGF. This table should be updated
-regularly soon.
+regularly soon. You can convert this table into a more convenient (humand readable) format using, e.g.
+
+
+```python
+import pandas as pd
+
+url = "https://raw.githubusercontent.com/euro-cordex/tables/master/esgf/euro-cordex-esgf.csv"
+df = pd.read_csv(url)
+
+# group the data to have a more readable layout.
+cordex_table = df.groupby(['institute', 'model_id', 'driving_model_id', 'experiment_id', 'member', 'frequency', 'domain'])['variable'].apply(list)
+
+# write the table to excel
+cordex_list.to_excel('cordex.xlsx')
+```
