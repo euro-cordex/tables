@@ -8,6 +8,16 @@ url = "https://raw.githubusercontent.com/euro-cordex/tables/master/domains/corde
 table = pd.read_csv(url)
 ```
 
+## Data Request
+
+A table with some meta information about the Cordex data request.
+
+
 ## Domains
 
 Contains tables with cordex domains and definitions in rotated coordinates.
+
+## ESGF
+
+A table of Cordex Simulations currently available in the ESGF. This table should be updated
+regularly soon.
