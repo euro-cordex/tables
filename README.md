@@ -37,3 +37,5 @@ cordex_table = df.groupby(['institute', 'model_id', 'driving_model_id', 'experim
 # write the table to excel
 cordex_table.to_excel('cordex.xlsx')
 ```
+
+A formatted table in `xlsx` format is also updated nightly [here](https://raw.githubusercontent.com/euro-cordex/tables/master/esgf/euro-cordex-esgf.xlsx)
