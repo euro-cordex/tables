@@ -19,6 +19,8 @@ Contains tables with cordex domains and definitions in rotated coordinates.
 
 ## ESGF
 
+[![pipeline status](http://git.gerics.de/Lars.Buntemeyer/schedule-test/badges/develop/pipeline.svg)](http://git.gerics.de/Lars.Buntemeyer/schedule-test/commits/master)
+
 A table of Cordex Simulations currently available in the ESGF. This table should be updated
 regularly soon. You can convert this table into a more convenient (humand readable) format using, e.g.
 
