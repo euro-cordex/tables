@@ -23529,6 +23529,9 @@ cordex,output,EUR-11,CNRM,NCC-NorESM1-M,rcp85,r1i1p1,ALADIN63,v1,mon,zg850,v2020
 cordex,output,EUR-11,CNRM,NCC-NorESM1-M,rcp85,r1i1p1,ALADIN63,v1,mon,zg925,v20201112,esg1.umr-cnrm.fr
 cordex,output,EUR-11,CNRM,NCC-NorESM1-M,rcp85,r1i1p1,ALADIN63,v1,mon,lcod,v20201112,esg1.umr-cnrm.fr
 cordex,output,EUR-11,CNRM,NCC-NorESM1-M,rcp85,r1i1p1,ALADIN63,v1,mon,snm,v20201112,esg1.umr-cnrm.fr
+cordex,output,EUR-11,CNRM,NCC-NorESM1-M,historical,r1i1p1,ALADIN63,v1,1hr,pr,v20201203,esg1.umr-cnrm.fr
+cordex,output,EUR-11,CNRM,NCC-NorESM1-M,historical,r1i1p1,ALADIN63,v1,1hr,ua100m,v20201203,esg1.umr-cnrm.fr
+cordex,output,EUR-11,CNRM,NCC-NorESM1-M,historical,r1i1p1,ALADIN63,v1,1hr,va100m,v20201203,esg1.umr-cnrm.fr
 cordex,output,EUR-11,SMHI,MPI-M-MPI-ESM-LR,historical,r3i1p1,RCA4,v1,day,evspsblpot,v20191001,esg-dn1.nsc.liu.se
 cordex,output,EUR-11,SMHI,MPI-M-MPI-ESM-LR,historical,r3i1p1,RCA4,v1,day,hfss,v20191001,esg-dn1.nsc.liu.se
 cordex,output,EUR-11,SMHI,MPI-M-MPI-ESM-LR,historical,r3i1p1,RCA4,v1,day,clwvi,v20191001,esg-dn1.nsc.liu.se
