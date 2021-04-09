@@ -10,7 +10,7 @@ table = pd.read_csv(url)
 
 ## Data Request
 
-A table with some meta information about the Cordex data request.
+A table with some meta information about the Cordex data request. It's an attempt to clean up and convert the [variable list](https://github.com/IS-ENES-Data/cordex/blob/master/CORDEX_standard_output.xls) into a machine readable format.
 
 
 ## Domains
