@@ -27109,6 +27109,8 @@ cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp26,r1i1p1,ALADIN63,v2,mon,ta7
 cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp26,r1i1p1,ALADIN63,v2,mon,ua200,v20190702,esg1.umr-cnrm.fr
 cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp26,r1i1p1,ALADIN63,v2,mon,ta925,v20190702,esg1.umr-cnrm.fr
 cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp26,r1i1p1,ALADIN63,v2,mon,va850,v20190702,esg1.umr-cnrm.fr
+cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp26,r1i1p1,ALADIN63,v2,mon,wap200,v20190702,esg1.umr-cnrm.fr
+cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp26,r1i1p1,ALADIN63,v2,mon,wap500,v20190702,esg1.umr-cnrm.fr
 cordex,output,EUR-11,SMHI,MPI-M-MPI-ESM-LR,historical,r3i1p1,RCA4,v1,day,evspsblpot,v20191001,esg-dn1.nsc.liu.se
 cordex,output,EUR-11,SMHI,MPI-M-MPI-ESM-LR,historical,r3i1p1,RCA4,v1,day,hfss,v20191001,esg-dn1.nsc.liu.se
 cordex,output,EUR-11,SMHI,MPI-M-MPI-ESM-LR,historical,r3i1p1,RCA4,v1,day,clwvi,v20191001,esg-dn1.nsc.liu.se
