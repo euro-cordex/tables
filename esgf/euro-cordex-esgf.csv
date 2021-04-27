@@ -27155,6 +27155,12 @@ cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,6hr,zg5
 cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,6hr,zg700,v20190828,esg1.umr-cnrm.fr
 cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,6hr,zg850,v20190828,esg1.umr-cnrm.fr
 cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,6hr,zg925,v20190828,esg1.umr-cnrm.fr
+cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,mon,wap925,v20190828,esg1.umr-cnrm.fr
+cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,mon,zg200,v20190828,esg1.umr-cnrm.fr
+cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,mon,zg500,v20190828,esg1.umr-cnrm.fr
+cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,mon,zg700,v20190828,esg1.umr-cnrm.fr
+cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,mon,zg850,v20190828,esg1.umr-cnrm.fr
+cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,mon,zg925,v20190828,esg1.umr-cnrm.fr
 cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,day,hus925,v20190828,esg1.umr-cnrm.fr
 cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,day,ua200,v20190828,esg1.umr-cnrm.fr
 cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,day,ua500,v20190828,esg1.umr-cnrm.fr
@@ -27210,12 +27216,6 @@ cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,mon,va2
 cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,mon,va700,v20190828,esg1.umr-cnrm.fr
 cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,mon,va850,v20190828,esg1.umr-cnrm.fr
 cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,mon,va925,v20190828,esg1.umr-cnrm.fr
-cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,mon,wap925,v20190828,esg1.umr-cnrm.fr
-cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,mon,zg200,v20190828,esg1.umr-cnrm.fr
-cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,mon,zg500,v20190828,esg1.umr-cnrm.fr
-cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,mon,zg700,v20190828,esg1.umr-cnrm.fr
-cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,mon,zg850,v20190828,esg1.umr-cnrm.fr
-cordex,output,EUR-11,CNRM,CNRM-CERFACS-CNRM-CM5,rcp45,r1i1p1,ALADIN63,v2,mon,zg925,v20190828,esg1.umr-cnrm.fr
 cordex,output,EUR-11,SMHI,MPI-M-MPI-ESM-LR,historical,r3i1p1,RCA4,v1,day,evspsblpot,v20191001,esg-dn1.nsc.liu.se
 cordex,output,EUR-11,SMHI,MPI-M-MPI-ESM-LR,historical,r3i1p1,RCA4,v1,day,hfss,v20191001,esg-dn1.nsc.liu.se
 cordex,output,EUR-11,SMHI,MPI-M-MPI-ESM-LR,historical,r3i1p1,RCA4,v1,day,clwvi,v20191001,esg-dn1.nsc.liu.se
