@@ -40,4 +40,4 @@ cordex_table = df.groupby(['institute', 'model_id', 'driving_model_id',
 cordex_table.to_excel('cordex.xlsx')
 ```
 
-A formatted table in `xlsx` format is also updated nightly [here](https://github.com/euro-cordex/esgf-crawler/actions/workflows/manual.yml)
+A formatted table in [`xlsx`](https://github.com/euro-cordex/esgf-crawler/actions/workflows/manual.yml) format is also updated nightly.
