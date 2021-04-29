@@ -19,7 +19,7 @@ Contains tables with cordex domains and definitions in rotated coordinates.
 
 ## ESGF
 
-![example workflow](https://github.com/euro-cordex/esgf-crawler/actions/workflows/manual.yml/badge.svg)
+[![example workflow](https://github.com/euro-cordex/esgf-crawler/actions/workflows/manual.yml/badge.svg)](https://github.com/euro-cordex/esgf-crawler/actions)
 
 A table of Cordex Simulations currently available in the ESGF. This table is now updated
 nightly! You can convert this table into a more convenient (humand readable) format using, e.g.
