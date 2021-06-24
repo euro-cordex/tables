@@ -1,0 +1,11 @@
+area,name,west,east,south,north
+IP,Iberian Peninsula,-10,3,36,44
+FR,France,-5,5,44,50
+ME,Mid-Europe,2,16,48,55
+AL,Alps,5,15,44,48
+MD,Mediterranean,3,25,36,44
+EA,Eastern Europe,16,30,44,55
+NA,Northwestern Africa,-10,12,25,36
+MI,Middle East,25,43,25,42
+SC,Scandinavia,5,30,55,70
+BI,British Isles,-10,2,50,59
