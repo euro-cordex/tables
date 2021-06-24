@@ -16,3 +16,9 @@ A table with some meta information about the Cordex data request. It's an attemp
 ## Domains
 
 Contains tables with cordex domains and definitions in rotated coordinates. The data is mostly based on the [Cordex archive specifications](https://is-enes-data.github.io/cordex_archive_specifications.pdf).
+
+## Regions
+
+This directory contains some data to work with sub-regions of Cordex domains. Right now, we have only collected the following:
+
+* Prudence regions (official resource missing)
