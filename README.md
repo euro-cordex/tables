@@ -15,4 +15,4 @@ A table with some meta information about the Cordex data request. It's an attemp
 
 ## Domains
 
-Contains tables with cordex domains and definitions in rotated coordinates.
+Contains tables with cordex domains and definitions in rotated coordinates. The data is mostly based on the [Cordex archive specifications](https://is-enes-data.github.io/cordex_archive_specifications.pdf).
