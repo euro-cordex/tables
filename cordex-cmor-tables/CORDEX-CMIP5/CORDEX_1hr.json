@@ -1,0 +1,35 @@
+{
+    "Header": {
+        "data_specs_version": "01.00.29", 
+        "cmor_version": "3.4", 
+        "table_id": "Table 1hr", 
+        "realm": "atmos", 
+        "table_date": "8 March 2019", 
+        "missing_value": "1e20", 
+        "int_missing_value": "-999", 
+        "product": "model-output", 
+        "approx_interval": "0.041667", 
+        "generic_levels": "", 
+        "mip_era": "CMIP5", 
+        "Conventions": "CF-1.7 CMIP-6.2"
+    }, 
+    "variable_entry": {
+        "pr": {
+            "frequency": "1hr", 
+            "modeling_realm": "atmos", 
+            "standard_name": "precipitation_flux", 
+            "units": "kg m-2 s-1", 
+            "cell_methods": "area: time: mean", 
+            "long_name": "Precipitation", 
+            "comment": "includes both liquid and solid phases", 
+            "dimensions": "longitude latitude time", 
+            "out_name": "pr", 
+            "type": "real", 
+            "positive": "", 
+            "valid_min": "", 
+            "valid_max": "", 
+            "ok_min_mean_abs": "", 
+            "ok_max_mean_abs": ""
+        } 
+    }
+}
