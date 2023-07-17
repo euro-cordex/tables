@@ -14,7 +14,7 @@ A table with some meta information about the Cordex data request. It's an attemp
 
 ## Domains
 
-!warning! The domain tables for `py-cordex` are now downloaded from [here](https://github.com/WCRP-CORDEX/domain-tables). All domain definitions have now been merged into [one table](https://github.com/WCRP-CORDEX/domain-tables/blob/main/rotated-latitude-longitude.csv).
+:warning: The domain tables for `py-cordex` are now downloaded from [here](https://github.com/WCRP-CORDEX/domain-tables). All domain definitions have now been merged into [one table](https://github.com/WCRP-CORDEX/domain-tables/blob/main/rotated-latitude-longitude.csv).
 
 Contains tables with cordex domains and definitions in rotated coordinates. The data is mostly based on the [Cordex archive specifications](https://is-enes-data.github.io/cordex_archive_specifications.pdf).
 
