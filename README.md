@@ -1,4 +1,7 @@
 # Tables
+
+:warning: This repository is about to be archive and should not be updated anymore. Please also see the notes further down.
+
 This repository contains machine readable cordex tables with data and meta information.
 To read one of the tables, e.g., into python, you can simply use the public raw adress, e.g.:
 
@@ -10,6 +13,8 @@ table = pd.read_csv(url)
 
 ## Data Request
 
+:warning: The new CORDEX-CMIP6 data request is now available [here](https://github.com/WCRP-CORDEX/data-request-table).
+
 A table with some meta information about the Cordex data request. It's an attempt to clean up and convert the [variable list](https://github.com/IS-ENES-Data/cordex/blob/master/CORDEX_standard_output.xls) into a machine readable format.
 
 ## Domains
@@ -19,6 +24,8 @@ A table with some meta information about the Cordex data request. It's an attemp
 Contains tables with cordex domains and definitions in rotated coordinates. The data is mostly based on the [Cordex archive specifications](https://is-enes-data.github.io/cordex_archive_specifications.pdf).
 
 ## Regions
+
+:warning: Prudence regions are now [available from regionmask](https://regionmask.readthedocs.io/en/stable/defined_scientific.html#prudence-regions). It is recommended to use those.
 
 This directory contains some data to work with sub-regions of Cordex domains. Right now, we have only collected the following:
 
