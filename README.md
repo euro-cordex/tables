@@ -1,6 +1,6 @@
 # Tables
 
-:warning: This repository is about to be archive and should not be updated anymore. Please also see the notes further down.
+:warning: This repository is about to be archived and should not be updated anymore. Please also see the notes further down.
 
 This repository contains machine readable cordex tables with data and meta information.
 To read one of the tables, e.g., into python, you can simply use the public raw adress, e.g.:
